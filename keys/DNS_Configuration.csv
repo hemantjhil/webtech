@@ -1,0 +1,6 @@
+Domain Name,Record Name,Record Type,Record Value,
+*.mpsvns.in,_edddf290c5378940f0687ae412040dd6.mpsvns.in.,CNAME,_b40876c2f721b21f9c9d1c3ceb6f66a7.acm-validations.aws.,
+mpsvns.in.,A,ALIAS s3-website-us-east-1.amazonaws.com. (z3aqbstgfyjstf),No,-
+www.mpsvns.in.,A,ALIAS mpsvns.in. (z1kmfhwof098nz),No,-
+mpsvns.in.,A,ALIAS d1lbjc98ijvm58.cloudfront.net. (z2fdtndataqyw2),No,-
+www.mpsvns.in.,A,ALIAS s3-website-us-east-1.amazonaws.com. (z3aqbstgfyjstf),No,-
